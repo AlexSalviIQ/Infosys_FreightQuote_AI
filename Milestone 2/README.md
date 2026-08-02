@@ -107,3 +107,25 @@ Localtunnel Exposure: Run the execution cell initializing streamlit concurrently
 Bash
 !streamlit run app.py & npx localtunnel --port 8501
 Click the generated localtunnel link, input the external IP displayed in the terminal output, and log in through the Phase 1 Security Gateway.
+
+Screenshots
+1. Login page
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45b0b6ec-1d5f-48b1-a7bc-23582286855c" />
+2. Weak password
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/38420244-3948-4fb6-9bd2-e946b04603f3" />
+3. Average password
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/852aae7a-76fb-439e-af02-87f7f72db8dc" />
+4. AI Copilot 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7b1881cd-9e9e-47ef-917e-34b3ce2e6535" />
+5. Agent 1: Pricing
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1ff3f1c0-1a90-48bd-b77e-8c2e90f0455a" />
+6. Agent 2: Route/Weather
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cd7b1219-ffa3-44da-ae33-f93235dba9c5" />
+7. Agent 3: Carrer Audit
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a3328a9d-a9bc-4252-911f-cd6fde2703d3" />
+8. Analytics and Retrain
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/471fc447-375f-48db-9fe2-b660c22c0224" />
+9. Admin Dashboard
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b109b435-172a-4a15-8669-adf505d43f70" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e913d4f1-a16b-40c4-b425-c31fcedb2c1c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6ddecc16-fb19-4dc8-970d-e2567dcde9cb" />
